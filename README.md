@@ -40,12 +40,6 @@ Criar soluções que conectem **tecnologia e inovação**, enquanto compartilho 
 
 ---
 
-## 📊 Estatísticas do GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
-
----
-
 ## ✨ Extras:
 - Sempre aberto a colaborações e trocas de ideias.
 - Adoro conectar minha expertise técnica com hobbies e explorar novas formas de aprendizado.
