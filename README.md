@@ -14,6 +14,7 @@ Olá! Sou **Jefferson Hoy Valente**, apaixonado por tecnologia e soluções esca
 ## 💼 Vamos nos conectar?
 Gostaria de trocar ideias ou saber mais sobre meu trabalho?  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jefferson%20Hoy%20Valente-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jefferson-hoy-valente/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-jeffersonvalente.com.br-blueviolet?style=for-the-badge)](https://jeffersonvalente.com.br)
 
 ---
 
