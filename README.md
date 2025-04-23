@@ -1,7 +1,6 @@
 # Jefferson Valente
-Engenharia de Plataforma • DevOps • SRE • Automação com contexto
 
-Sou o Jefferson. Trabalho com DevOps, SRE e engenharia de plataforma.  
+Trabalho com DevOps, SRE e engenharia de plataforma.  
 Esse repositório é meu espaço pessoal — onde registro o que aprendi, construí e melhorei ao longo da caminhada.
 
 Aqui tem projeto que nasceu de problema real, script que saiu de uma dor recorrente e integração que virou padrão.  
