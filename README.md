@@ -22,11 +22,10 @@ E quando algo trava, costumo ser o primeiro a tentar resolver — e o último a 
 
 ## O que tem por aqui
 
-- **Scripts e automações** que nasceram de necessidade real e seguem em uso
-- **Integrações práticas** com ferramentas como New Relic, Opsgenie, GitHub Actions e Notion
-- **Projetos de observabilidade, GitOps e DX** aplicados em ambientes produtivos
-- O [`/eu.log`](https://github.com/jeffersonvalente/eu.log), onde registro os bastidores técnicos e humanos das minhas entregas
-
+- **Casos técnicos detalhados no repositório [`/portfolio`](https://github.com/jeffersonvalente/portfolio), mostrando decisões, impacto e links para os códigos reais
+- **Entregas que envolvem observabilidade, GitOps, automações e integração de ferramentas como New Relic, Opsgenie, GitHub Actions e Terraform
+- **O [`/eu.log`](https://github.com/jeffersonvalente/eu.log), onde compartilho bastidores da jornada, aprendizados e os porquês por trás do que entrego
+- 
 ---
 
 ## Ferramentas que fazem parte do meu dia a dia
