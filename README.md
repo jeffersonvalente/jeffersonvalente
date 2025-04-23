@@ -25,7 +25,6 @@ E quando algo trava, costumo ser o primeiro a tentar resolver — e o último a 
 - Casos técnicos detalhados no repositório [`/portfolio`](https://github.com/jeffersonvalente/portfolio), mostrando decisões, impacto e links para os códigos reais
 - Entregas que envolvem observabilidade, GitOps, automações e integração de ferramentas como New Relic, Opsgenie, GitHub Actions e Terraform
 - O [`/eu.log`](https://github.com/jeffersonvalente/eu.log), onde compartilho bastidores da jornada, aprendizados e os porquês por trás do que entrego
-- 
 ---
 
 ## Ferramentas que fazem parte do meu dia a dia
