@@ -13,7 +13,6 @@ O case mais concreto: 411 aplicações, 1.009 containers, 350M requisições/mê
 | Repo | O que é |
 |---|---|
 | [/cardume](https://github.com/jeffersonvalente/cardume) | Plugin de Claude Code com 33 agentes especialistas, hooks de segurança e processo proporcional ao tamanho da mudança |
-| [/Whodeployed](https://github.com/jeffersonvalente/Whodeployed) | Jogo open source de dedução sobre incidentes de produção: aprende observabilidade investigando com sinais incompletos sob pressão |
 | [/one-vps-platform](https://github.com/jeffersonvalente/one-vps-platform) | Um VPS barato virado plataforma privada: Tailscale, k3s, ArgoCD, SigNoz, um usuário Linux por cliente. Terraform + Ansible + GitOps |
 | [/eu.log](https://github.com/jeffersonvalente/eu.log) | Inventário técnico-emocional da trajetória: as entregas que não cabem em framework |
 
